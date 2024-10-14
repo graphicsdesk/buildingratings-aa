@@ -7,12 +7,244 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The New York City Department of Buildings published new energy efficiency grades on Oct. 1, showing an improvement in the efficiency ratings of Barnard dorms and a slight dip in those of Columbia’s."
+          },
+          {
+            "type": "text",
+            "value": "Spectator analyzed the grades of all 36 Columbia undergraduate student housing buildings—including fraternity and sorority housing, brownstones, and special interest communities—and all 12 Barnard student housing buildings over the past year and compared them to the previous year’s grades."
+          },
+          {
+            "type": "text",
+            "value": "Barnard student housing improved its energy efficiency over the past year. Its Columbia counterparts maintained a high degree of energy efficiency, but witnessed a slight dip in average grades. Seventy-eight percent of Columbia dorm buildings are not required to report energy efficiency grades."
+          },
+          {
+            "type": "text",
+            "value": "As Columbia renovates what was The Maranamay hotel into its <a href=\"https://www.columbiaspectator.com/city-news/2023/02/15/columbia-to-convert-former-hotel-the-maranamay-into-new-undergraduate-dorm/\">newest undergraduate student residence hall</a> located at 611 W. 112th St.—which is slated to open for the 2025-26 academic year as the first fossil fuel-free dorm—the University continues toward its <a href=\"https://sustainable.columbia.edu/content/plan-2030\">Plan 2030</a> goal of achieving net-zero emissions by 2050."
+          },
+          {
+            "type": "text",
+            "value": "Across Broadway, Barnard President Laura Rosenbury introduced Barnard’s sustainability plan to achieve net-zero emissions by 2040 at her <a href=\"https://www.columbiaspectator.com/news/2024/02/05/we-must-commit-to-disagree-better-rosenbury-delivers-inaugural-address-as-10-protesters-escorted-out/\">inaugural address</a> on Feb. 2."
+          },
+          {
+            "type": "text",
+            "value": "The New York City Department of Buildings gives out building efficiency grades—ranging from A to D, with a numerical equivalent of 0-100—t0 evaluate how a building manages its energy and water consumption. These ratings are required to be posted at building entrances. Local Law 33 of 2018 amended New York City’s energy efficiency codes to require grades to be disclosed annually based on benchmarks set by the United States Environmental Protection Agency. Local Law 95 of 2019 set the cutoff numbers for the letter grades."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.nyc.gov/site/sustainablebuildings/ll97/local-law-97.page\">Local Law 97</a>, passed in April 2019 as part of the New York City Green New Deal, states that “most buildings over 25,000 square feet are required to meet new energy efficiency and greenhouse gas emissions limits as of 2024, with stricter limits coming into effect in 2030.”"
+          },
+          {
+            "type": "text",
+            "value": "The law—which generally covers “two or more buildings on the same tax lot that together exceed 50,000 square feet,” and “two or more buildings owned by a condo association that are governed by the same board of managers and that together exceed 50,000 square feet”—includes a goal to reduce 40 percent of emissions produced by the city’s largest buildings by 2030 and reach net zero by 2050."
+          },
+          {
+            "type": "text",
+            "value": "When Spectator input last year’s efficiency grades of scored buildings into Columbia College’s GPA calculator, Columbia dorms scored a 3.0, or a B average, while Barnard scored 0.55, since 7 of its 12 dorms had received F grades from the Department of Buildings for not submitting “required benchmarking information.” This year, Columbia scored a 2.87, and Barnard scored a 2.28."
+          },
+          {
+            "type": "text",
+            "value": "A Barnard spokesperson wrote in a July statement to Spectator that the F ratings in 2023 were due to a “clerical error” that prevented departmental assessment."
+          },
+          {
+            "type": "text",
+            "value": "For the eight Barnard dorm buildings that report grades, all except one earned a passing grade this year. 620 W. 116 St. received a letter grade of A and 537 W. 121st St. received a B. 601 W. 110th St., 616 W. 116th St., Cathedral Gardens, and Plimpton Hall all received C grades, and Elliott Hall received a D."
+          },
+          {
+            "type": "text",
+            "value": "616 W. 116th St., 620 W. 116th St., 537 W. 121st St., Elliot Hall, and Plimpton Hall all received energy efficiency grades after scoring F’s last year. 601 W. 110th St. maintained its C grade while Cathedral Gardens fell from a B to a C."
+          },
+          {
+            "type": "text",
+            "value": "Per the Department of Buildings, two Barnard dorm buildings are not required to report their energy efficiency grades: 600 W. 116th St.,which scored an F last year, and the Barnard Quad, which includes Brooks Hall, Reid Hall, Sulzberger Hall, and Hewitt Hall."
+          },
+          {
+            "type": "text",
+            "value": "Barnard classifies the four first-year dorms as one complex, whereas the Department of Buildings lists Brooks and Sulzberger as one building and Reid and Hewitt as another."
+          },
+          {
+            "type": "text",
+            "value": "Last year, 616 W. 116th St. and Cathedral Gardens had Class I violations with the Department of Buildings and civil penalties for not submitting proof of compliance for a Class 1 violation within the required timeline after the issue date."
+          },
+          {
+            "type": "text",
+            "value": "This year, the penalties are no longer listed under the DOB NOW Public Portal pages for both dorms. However, 600 W. 116th St. now has a similar Class I violation, and according to the Department of Buildings Building Information System, 600 W. 116th St. has 16 open violations, with an outstanding civil penalty of $5,000."
+          },
+          {
+            "type": "text",
+            "value": "According to the New York City administrative code, a Class I violation is considered an immediately hazardous violation “where the violating condition poses a threat that severely affects life, health, safety, property, the public interest, or a significant number of persons so as to warrant immediate corrective action.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "2024dormgrades.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In an interview with Spectator in February, prior to the new slate of energy efficiency grades being released, Adrian Brügger, an associate research scientist in civil engineering and engineering mechanics and the head of the University Senate’s campus planning and physical development committee’s subcommittee on sustainability, said that the Class I violations could be a variety of infractions ranging in severity."
+          },
+          {
+            "type": "text",
+            "value": "“This could be a missing exit sign, this could be blocked fire exits. This could be something along that line, covered sprinkler heads or even propped fire doors, or fire doors that don’t close automatically,” Brügger said. “They could be more grave, but they could also be what people would probably consider minute but that are still life threatening per the code.”"
+          },
+          {
+            "type": "text",
+            "value": "In July, a Barnard spokesperson wrote in a statement to Spectator that Barnard was “making great strides” toward reaching net-zero emissions by 2040. The spokesperson cited Barnard receiving a gold rating this year by the Association for the Advancement of Sustainability in Higher Education’s STARS report, moving up from its silver rating in 2020. The report measures sustainability efforts by colleges and universities across the country."
+          },
+          {
+            "type": "text",
+            "value": "“The energy efficiency ratings across all our buildings exceeds the average energy efficiency rating for NYC. We are developing a building-by-building capital plan to improve efficiency and decarbonize our campus,” the spokesperson wrote in an October statement following the release of the new grades."
+          },
+          {
+            "type": "text",
+            "value": "According to engineering and architectural consulting company Steven Winter Associates Inc., the median energy efficiency rating for buildings in New York City is 60. When calculating the average of each building’s individual scores, Barnard scores slightly above the city average at approximately 62.7 . Columbia scores approximately 70.1."
+          },
+          {
+            "type": "text",
+            "value": "When analyzing the energy efficiency grades of the eight Columbia dorm buildings required to report them, all except two earned passing grades. Carlton Arms, 47 Claremont, and Harmony Hall received a letter grade of A, River Hall received a B, Watt Hall received a C, and McBain Hall and 600 W. 113th St. both received a letter grade of D."
+          },
+          {
+            "type": "text",
+            "value": "Carlton Arms, 47 Claremont Avenue, and Woodbridge Hall maintained their A’s from last year, and Harmony Hall’s grade bumped up from a B to an A. Watt Hall’s grade rose from a D to a C. River Hall and McBain Hall maintained their B and D grades, respectively, while 600 W. 113th St. fell from an A to a D."
+          },
+          {
+            "type": "text",
+            "value": "According to the Department of Buildings, 28 Columbia dorm buildings are not required to report their energy efficiency grades. This includes all fraternity and sorority housing, brownstones, special interest communities, and first-year dorms. The Columbia Housing website says certain buildings do not receive letter grades because “there were not enough comparable buildings based on the usage type across the country to create a national benchmark, or a building’s energy usage could not be isolated due to shared systems across buildings.”"
+          },
+          {
+            "type": "text",
+            "value": "In Title 28, Chapter 3, Article 309, Section 28-309.8 of the New York City administrative code, the only reasons cited for exceptions from building grades are for “a covered building that contains a data center, television studio, and/or trading floor that together exceed 10 percent of the gross square footage of any such building shall not be disclosed until the office of long-term planning and sustainability determines that the benchmarking tool can make adequate adjustments for such facilities.”"
+          },
+          {
+            "type": "text",
+            "value": "In September 2023, Sustainable Columbia, “the brand identity for Columbia University’s campus sustainability initiative,” according to its <a href=\"https://sustainable.columbia.edu/content/sustainable-columbia\">website</a>, provided an <a href=\"https://www.columbiaspectator.com/news/2023/10/05/columbia-unveils-plans-to-decarbonize-morningside-campus-on-the-road-to-net-zero/\">update</a> on the University’s plans to electrify University buildings as part of Plan 2030."
+          },
+          {
+            "type": "text",
+            "value": "At that time, Columbia was halfway to its first emission reduction target of a 15 percent reduction in annual absolute emissions by 2025. This was originally set in 2019."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2023/10/05/columbia-unveils-plans-to-decarbonize-morningside-campus-on-the-road-to-net-zero/\"><i>Columbia unveils plans to decarbonize Morningside campus on the road to net zero</i></a><i>] </i>"
+          },
+          {
+            "type": "text",
+            "value": "In the “Mid-Year Progress Update 2024” published in April, Jessica Prata, assistant vice president in the Office of Sustainability, wrote that the 15 percent annual absolute emissions goal is “on track” but noted that “the road ahead will present challenges.”"
+          },
+          {
+            "type": "text",
+            "value": "“Engineering studies, logistical planning, and decisive action are all essential,” Prata wrote. “As a community, we must grapple with complexity to fulfill our shared commitment as a climate leader.”"
+          },
+          {
+            "type": "text",
+            "value": "Prata also added that the annual report would be published in September, similar to the Office of Sustainability’s 2022 and 2023 progress reports. A 2024 progress report is currently not listed on the Sustainable Columbia website."
+          },
+          {
+            "type": "text",
+            "value": "However, the reductions announced by Sustainable Columbia in September 2023 fail to mention that Columbia’s overall emissions increased between 2021 and 2022, as the University opened two new buildings on the Manhattanville campus in <a href=\"https://www.columbiaspectator.com/news/2022/01/31/business-school-officially-moves-to-manhattanville-campus/\">January 2022</a>. Con Edison, New York City’s power provider, has committed to supplying the city with <a href=\"https://www.coned.com/en/our-energy-future/where-clean-energy-lives?gclid=CjwKCAjw38SoBhB6EiwA8EQVLqlIxrBNKbcpHHllBcX2N-sm0tFS58YTUKn2MVuFTnBt5aQ_wvvVdBoC86MQAvD_BwE&gclsrc=aw.ds\">100 percent renewable energy</a> by 2040."
+          },
+          {
+            "type": "text",
+            "value": "“The Office of Sustainability is engaged with University schools and departments, like Columbia Housing, who have a role in driving progress towards the University's short- and long-term goals as outlined in Plan 2030 and its net zero 2050 commitment,” a Columbia Housing spokesperson wrote in a statement to Spectator in April."
+          },
+          {
+            "type": "text",
+            "value": "Plan 2030 lays out specific goals in six commitment areas which will address campus energy, sustainable transportation, responsible design and construction, responsible materials management, campus culture and campus as a living lab, and water conservation and capture."
+          },
+          {
+            "type": "text",
+            "value": "Nicole Xiao, CC ’26, a member of the Energy and Environment Center of the Columbia Policy Institute, told Spectator in March that, to her knowledge, there is a need for many Columbia buildings to be retrofitted."
+          },
+          {
+            "type": "text",
+            "value": "The center wrote a letter in spring 2023 to then-incoming University President Minouche Shafik, with sections on building efficiency, fossil fuel research, and energy sources that power the University."
+          },
+          {
+            "type": "text",
+            "value": "“We like to think that these are issues that are on the forefront of her mind, given her commitment, especially during her speech at inauguration, where she talked about a lot of the social contract,” Xiao said."
+          },
+          {
+            "type": "text",
+            "value": "Xiao also added that, after meeting with Gerald Rosberg, then-senior executive vice president, Rosberg said that Shafik had read the letter and made note of the points contained within. There had been no direct communication between Shafik and the center."
+          },
+          {
+            "type": "text",
+            "value": "“Members of Columbia University Facilities and Operations (which includes Office of Sustainability and Housing) and University leadership met with members of the Columbia Policy Institute at the beginning of the academic year and continue to be in touch through various channels, including Office of Sustainability workgroups in which CPI members are a part,” a Columbia Housing spokesperson wrote in April."
+          },
+          {
+            "type": "text",
+            "value": "With a background in monitoring the infrastructure health of various New York City bridges, Brügger said that the biggest challenge on the Morningside Heights campus regarding sustainability is physical space constraints and the age of its buildings."
+          },
+          {
+            "type": "text",
+            "value": "“We have a very old campus, and with a few exceptions like the Northwest Corner building, really nothing here has been built in the last 10 years,” Brügger said. “Here, our issue is that we have, often, actually, even buildings on top of buildings, in the case of Engineering Terrace and Fairchild and Mudd. Again, they are intertwined structures that are incredibly challenging to really retrocommission, rebuild, and bring up to modern standards.”"
+          },
+          {
+            "type": "text",
+            "value": "Brügger pointed to the possibility of modernizing the structure of dorm buildings, bringing them from their pre-war origins to the 21st century. These efforts would focus on energy efficiency through an “invasive rebuild of the HVAC system and heating, cooling, as well as plumbing, and insulation windows.” He added that the only way to reduce Columbia’s carbon footprint is to decarbonize and electrify campus buildings, including dorms."
+          },
+          {
+            "type": "text",
+            "value": "Brügger also emphasized that there is no “one-size-fits-all sort of solution,” pointing to how different layouts between dorms and brownstones complicates retrofitting efforts and increases costs."
+          },
+          {
+            "type": "text",
+            "value": "Prata and Sean Scollins, assistant vice president of engineering and energy, presented to the University Senate in fall 2023 on ways to meet Plan 2030 and NYC Local Law 97 emissions reduction requirements, according to a Columbia Housing spokesperson."
+          },
+          {
+            "type": "text",
+            "value": "The plan includes recommendations for electrifying the Morningside campus’s central plants—which are run by the University and provide power, steam, and chilled water to all of the campus, including undergraduate residence halls—as well as similar initiatives at the Manhattanville and Medical Center campuses."
+          },
+          {
+            "type": "text",
+            "value": "Citing Columbia’s annual sustainability reports, Xiao and Savannah Jones, CC ’26, who is also part of the Energy and Environment Center, commented on how Columbia manages its reporting of annual fossil fuels emissions, including energy efficiency in student housing."
+          },
+          {
+            "type": "text",
+            "value": "“There’s a difference between transparency and accessibility,” Xiao said. “The University thinks that it’s transparent in some regards…like it does publish its sustainability reports, we have met with administration.”"
+          },
+          {
+            "type": "text",
+            "value": "Xiao said that, overall, the University has done a good job in beginning to decrease its emissions, but there are still accessibility issues present which impact the visibility of sustainability reporting. She highlighted how Columbia could increase further awareness amongst students around the climate change crisis."
+          },
+          {
+            "type": "text",
+            "value": "“Some of the biggest steps that it needs to take is greater involvement of the student body with its decision making,” Xiao said. “I think it’s hard for students to give accurate, comprehensive feedback, and guidance on what we think is best when we don’t have access to the information.”"
+          },
+          {
+            "type": "text",
+            "value": "Brügger said that the campus planning physical development committee has been pushing for more open communication with Columbia regarding Plan 2030 and meeting city environmental benchmarks across all Columbia buildings, dorms and labs alike, which is energy intensive."
+          },
+          {
+            "type": "text",
+            "value": "“Effecting that energy improvement for us will actually be a bigger challenge,” he said. “We’re pushing, specifically, initiatives to ensure that we can continue to do research at the level that we are doing in the buildings in New York City.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Joseph Zuloaga can be contacted at </i><a href=\"mailto:joseph.zuloaga@columbiaspectator.com\"><i>joseph.zuloaga@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://twitter.com/JosephZuloaga\"><i>@josephzuloaga</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Graphics Reporter Ana Pekec can be contacted at </i><a href=\"mailto:ana.pekec@columbiaspectator.com\"><i>ana.pekec@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Dorm energy efficiency grades at Barnard improve, Columbia grades dip slightly",
+        "date": "October 14, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/joseph-zuloaga/\">Joseph Zuloaga</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/ana-pekec/\">Ana Pekec</a><i>.</i>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PYXSXXIR25CEBFP2PXSB7FDHUY.jpg",
+        "cover_caption": "Judy Goldstein / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1iBuXiAHvhy5NI_t1EDSFg4jWEWnnHinO3qPBDx5wRWY/edit?usp=sharing"
       }
     }
   }
